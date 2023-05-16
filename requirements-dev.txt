@@ -41,7 +41,7 @@ pycparser==2.20
 pydoc-markdown==2.1.2
 pyflakes==2.2.0
 Pygments==2.8.1
-pymdown-extensions==6.2.1
+pymdown-extensions==10.0
 pyparsing==2.4.7
 pytest==6.2.2
 python-dateutil==2.8.1
@@ -52,7 +52,7 @@ requests-oauthlib==1.3.0
 rsa==4.7.2
 six==1.15.0
 toml==0.10.2
-tornado==6.1
+tornado==6.3.2
 tqdm==4.59.0
 typing-extensions==3.7.4.3
 urllib3==1.26.3
