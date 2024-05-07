@@ -13,7 +13,7 @@ htmlmin==0.1.12
 idna==2.10
 importlib-metadata==3.7.2
 iniconfig==1.1.1
-Jinja2==2.11.3
+Jinja2==3.1.4
 joblib==1.0.1
 jsmin==2.2.2
 kubernetes==10.0.1
